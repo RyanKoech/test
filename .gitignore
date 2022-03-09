@@ -1,6 +1,7 @@
 .test2.txt #This does not work
 test3.txt
 test5.txt #Added after committing the file - not ignored.
+test6.txt
 
 ./test4.txt #This not working either
 ./test_1 #Not working as well
